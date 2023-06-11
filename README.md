@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**12luke/12luke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hello, You are welcome to my github. 
+👋 I’m @12Luke 👀 I’m interested in Data Science/Engineering 
+🌱 I’m currently learning Data Engineering 
+💞️ I’m looking to collaborate on Machine learning & Data Engineering projects 
+📫 lukesobayo@gmail.com
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
